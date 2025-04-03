@@ -1,3 +1,4 @@
 #include <stdio.h>
 void main(){
-printf("NEW");
+printf("NEW PROGRAM");
+}
